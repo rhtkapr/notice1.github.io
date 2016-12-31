@@ -1,0 +1,145 @@
+
+
+body {
+   /*From http://flatuicolors.com/ */
+}
+
+form {
+  position:relative;
+  width:400px;
+  height:330px;
+  margin:30px auto;
+  text-align:center;
+  background:#ecf0f1;
+  padding:40px;
+  -webkit-border-radius:20px 0 0 0;
+     -moz-border-radius:20px 0 0 0;
+          border-radius:20px 0 0 0;
+  -webkit-box-shadow: 0px 1px 0px #ad392d, inset 0px 1px 0px white;
+     -moz-box-shadow: 0px 1px 0px #ad392d, inset 0px 1px 0px white;
+          box-shadow: 0px 1px 0px #ad392d, inset 0px 1px 0px white;
+  box-shadow: 20px 20px 20px;
+}
+
+h4 {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size:2em;
+  font-weight:300;
+  margin-bottom:25px;
+  color:#7f8c8d;
+  text-shadow:1px 1px 0px white;
+}
+
+input {
+  display:block;
+  width:315px;
+  padding:14px;
+  -webkit-border-radius:6px;
+     -moz-border-radius:6px;
+          border-radius:6px;
+  border:0;
+  margin-bottom:12px;
+  color:#7f8c8d;
+  font-weight:600;
+  font-size:16px;
+}
+
+input:focus {
+  background:#fafafa;
+}
+
+
+li {
+  position:absolute;
+  right:40px;
+  bottom:62px;
+  list-style:none;
+}
+
+a, a:visited {
+  text-decoration:none;
+  color:#7f8c8d;
+  font-weight:400;
+  text-shadow:1px 1px 0px white;
+  -webkit-transition: all .3s ease-in-out;
+     -moz-transition: all .3s ease-in-out;
+          transition: all .3s ease-in-out;
+}
+
+.button {
+  position:relative;
+  float:left;
+  width:145px;
+  margin-top:10px;
+  background:#3498db;
+  color:#fff;
+  font-weight:400;
+  text-shadow:1px 1px 0px #2d7baf;
+  box-shadow:0px 3px 0px #2d7baf;
+  -webkit-transition: all .3s ease-in-out;
+     -moz-transition: all .3s ease-in-out;
+          transition: all .3s ease-in-out;
+}
+
+.bluez  {
+      background-color: #175888;
+      color: white;
+      background: rgba(73,165,191,1);
+      background: -moz-radial-gradient(center, ellipse cover, rgba(73,165,191,1) 0%, rgba(73,165,191,1) 38%, rgba(53,135,169,1) 58%, rgba(23,88,136,1) 89%);
+      background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, rgba(73,165,191,1)), color-stop(38%, rgba(73,165,191,1)), color-stop(58%, rgba(53,135,169,1)), color-stop(89%, rgba(23,88,136,1)));
+      background: -webkit-radial-gradient(center, ellipse cover, rgba(73,165,191,1) 0%, rgba(73,165,191,1) 38%, rgba(53,135,169,1) 58%, rgba(23,88,136,1) 89%);
+      background: -o-radial-gradient(center, ellipse cover, rgba(73,165,191,1) 0%, rgba(73,165,191,1) 38%, rgba(53,135,169,1) 58%, rgba(23,88,136,1) 89%);
+      background: -ms-radial-gradient(center, ellipse cover, rgba(73,165,191,1) 0%, rgba(73,165,191,1) 38%, rgba(53,135,169,1) 58%, rgba(23,88,136,1) 89%);
+      background: radial-gradient(ellipse at center, rgba(73,165,191,1) 0%, rgba(73,165,191,1) 38%, rgba(53,135,169,1) 58%, rgba(23,88,136,1) 89%);
+      filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#49a5bf', endColorstr='#175888', GradientType=1 );
+    }
+    
+    .logokec {
+      height: 146px;
+      margin: 10px auto;
+    }
+
+    .kecheading {
+      margin-top: 15px;
+      margin-bottom: 15px;
+    }
+
+    
+    .kech {
+      font-size: 40px;
+    }
+
+    footer {
+      background-color: #175888;
+      padding: 25px;
+      border-top: 2px dashed; 
+      color: white;
+
+    }
+
+    body {
+      background-color: #f2f2f2;
+    }
+    h1, h2, h3,h4 {
+      font-family: 'Roboto Condensed','Lato';
+    }
+
+    #content  h2 {
+      color: #2d7ba0;
+    }
+
+    .kech {
+      font-size: 70px;
+      text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+             0px 8px 13px rgba(0,0,0,0.1),
+             0px 18px 23px rgba(0,0,0,0.1);
+    }
+
+    .last {
+      font-family: 'Roboto Condensed','Lato';
+      font-size: 20px;
+    }
+    p {
+      font-family: 'Lato', sans-serif;
+	  font-size:18px;
+    }
